@@ -30,7 +30,7 @@ div class="container">
         <h3><?= $projeto ?></h3><!--  shorttag = tag curta -->
 
         <ul>
-            <? include('./includes/listContact.php') ?>
+            <? include('./includes/listContacts.php') ?>
         </ul>
 
     
