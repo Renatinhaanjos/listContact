@@ -15,7 +15,7 @@ include('./includes/functions.php');
     <title><?php echo $projeto ?></title>
 </head>
 <body>
-div class="container">
+<div class="container">
         <h1><?php echo $projeto ?></h1>
         <h2><?php echo boasVindas("Renata") ?></h2>
 
