@@ -3,7 +3,7 @@
 require_once('./connection.php');
 
 $connection->select_db('contact');
-D
+
 $sql = "SELECT * from contact ORDER BY name";
 $result = $connection->query($sql);
 
