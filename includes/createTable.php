@@ -1,5 +1,5 @@
 <?php
-require_once('./connection.php')
+require_once('./includes/connection.php')
 
 $sql = "CREATE TABLE contact (
     id INT UNSIGNED AUTO_INCREMENT,
