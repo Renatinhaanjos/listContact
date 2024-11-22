@@ -1,6 +1,6 @@
 <?php
 
-require_once('./connection.php');
+require_once('./includes/connection.php');
 
 function test_input($data){
     $data = trim($data);
